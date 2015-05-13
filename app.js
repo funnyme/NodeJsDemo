@@ -7,7 +7,7 @@ console.log('Order  '+ordernumber+' Ready for pickup....');
 };
 
 function cookOrder(callback){
-setTimeout(callback, 5000);
+setTimeout(callback, 5000); 
 };
 
 
